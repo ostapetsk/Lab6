@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\bin\Debug\net5.0\Work3.exe
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\bin\Debug\net5.0\Work3.deps.json
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\bin\Debug\net5.0\Work3.runtimeconfig.json
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\bin\Debug\net5.0\Work3.runtimeconfig.dev.json
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\bin\Debug\net5.0\Work3.dll
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\bin\Debug\net5.0\ref\Work3.dll
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\bin\Debug\net5.0\Work3.pdb
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.AssemblyInfo.cs
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.dll
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\ref\Work3.dll
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.pdb
+C:\Users\user\Desktop\Лабораторна № 6\Work3\Work3\obj\Debug\net5.0\Work3.genruntimeconfig.cache
